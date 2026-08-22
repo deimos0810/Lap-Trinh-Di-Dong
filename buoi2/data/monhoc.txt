@@ -1,0 +1,5 @@
+LT#MH01#Lap trinh Dart#3#8#9
+TH#MH02#Co so du lieu#4#7#8#9
+DA#MH03#Do an phan mem#5#9#8
+LT#MH04#Mang may tinh#3#6#7
+TH#MH05#Phat trien Web#3#8#8.5#9
