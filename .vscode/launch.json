@@ -1,0 +1,89 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "buoi2",
+            "cwd": "buoi2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "buoi3",
+            "cwd": "buoi3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "buoi3 (profile mode)",
+            "cwd": "buoi3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "buoi3 (release mode)",
+            "cwd": "buoi3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "bai-tap-tu-lam",
+            "cwd": "buoi1\\bai-tap-tu-lam",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "btbuoi4",
+            "cwd": "Buoi4\\btbuoi4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "btbuoi4 (profile mode)",
+            "cwd": "Buoi4\\btbuoi4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "btbuoi4 (release mode)",
+            "cwd": "Buoi4\\btbuoi4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "buoi5",
+            "cwd": "buoi5/buoi5",
+            "program": "buoi5/buoi5/lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "buoi5 (profile mode)",
+            "cwd": "buoi5/buoi5",
+            "program": "buoi5/buoi5/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "buoi5 (release mode)",
+            "cwd": "buoi5/buoi5",
+            "program": "buoi5/buoi5/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart_application_1",
+            "cwd": "buoi1\\bai-tap-ve-nha\\dart_application_1",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
