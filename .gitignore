@@ -31,3 +31,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Microsoft Office temporary lock files
+~$*.docx
+
