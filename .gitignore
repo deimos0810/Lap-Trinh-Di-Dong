@@ -1,6 +1,4 @@
-# See https://www.dartlang.org/guides/libraries/private-files
-
-# Files and directories created by pub
+# Flutter & Dart
 .dart_tool/
 .packages
 build/
@@ -9,29 +7,32 @@ build/
 **/.idea/
 **/*.iml
 .idea/
+.vscode/
 .venv/
 temp.txt
-
-# If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
+**/pubspec.lock
 
-# Directory created by dartdoc
-doc/api/
+# .NET Build artifacts
+**/bin/
+**/obj/
 
-# dotenv environment variables file
-.env*
-
-# Avoid committing generated Javascript files:
-*.dart.js
-*.info.json
-*.js
-*.js_
-*.js.deps
-*.js.map
-
-.flutter-plugins
-.flutter-plugins-dependencies
+# Exclude scripts and documents not requested for git
+*.bat
+**/*.bat
+*.py
+**/*.py
+*.pdf
+*.zip
+Baitap2LTDD_Tuan10/
+HUONG_DAN_CAI_DAT.md
 
 # Microsoft Office temporary lock files
 ~$*.docx
 
+# Environment variables
+.env*
+
+# Flutter plugins
+.flutter-plugins
+.flutter-plugins-dependencies
