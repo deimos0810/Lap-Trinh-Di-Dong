@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347132962263",
+    "project_id": "ltdd-buoi11-74f64",
+    "storage_bucket": "ltdd-buoi11-74f64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347132962263:android:75988fc306e0cb387c1792",
+        "android_client_info": {
+          "package_name": "com.example.buoi11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347132962263-fm0ruua7m0cjbg2m3ig3d82199m1iie0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxZpGsjjXoRmM6l82gLKIHT6MA2QuoaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347132962263-fm0ruua7m0cjbg2m3ig3d82199m1iie0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
